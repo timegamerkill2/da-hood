@@ -1,7 +1,7 @@
 local uis = Game:GetService("UserInputService")
 uis.InputBegan:connect(function(inst)
    if inst.KeyCode == Enum.KeyCode.Q then
-       game:GetService("Players").LocalPlayer.Character.Humanoid.WalkSpeed=20
+       game:GetService("Players").LocalPlayer.Character.Humanoid.WalkSpeed=500
    end
 end)
 uis.InputEnded:connect(function(inst)
