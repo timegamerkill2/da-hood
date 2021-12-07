@@ -1,0 +1,1 @@
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-501.142975, 21.7499943, 245.61702, 1, 4.36363923e-09, -6.79522763e-14, -4.36363923e-09, 1, -1.63334024e-09, 6.79451477e-14, 1.63334024e-09, 1)
